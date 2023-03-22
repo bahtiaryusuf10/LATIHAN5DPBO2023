@@ -17,5 +17,26 @@ Result :
 
 <br>
 
-## Desain Program
+## Desain GUI
+
 ![Desain-GUI](https://user-images.githubusercontent.com/100776170/226825485-0ad21503-1554-4ef8-874a-8e70b2a7ca16.png)
+
+<br>
+
+## Desain Program
+
+Program didesain menjadi 2 class :
+* *Menu*, dalam class ini terdapat 5 method utama diantaranya:
+  + setTable   -> untuk membuat table yang memuat data mahasiswa dan akan ditampilkan ke layar
+  + insertData -> untuk menambahkan data mahasiswa baru ke dalam list 
+  + updateData -> untuk mengubah data mahasiswa yang terdapat di dalam list
+  + deleteData -> untuk menghapus data mahasiswa dari list
+  + resetForm  -> untuk membersihkan form masukkan (refresh table)
+  
+* *Mahasiswa*, dalam class ini terdapat 4 atribut diantaranya :
+  + nim    -> berisikan NIM Mahasiswa, bertipe data `long`
+  + nama   -> berisikan Nama Mahasiswa, bertipe data `string`
+  + nilai  -> berisikan Nilai Mahasiswa, bertipe data `string`
+  + gender -> berisikan Jenis Kelamin Mahasiswa, bertipe data `string`
+
+  Tiap atribut memiliki setter dan getternya masing-masing yang berada pada class `Mahasiswa`.
