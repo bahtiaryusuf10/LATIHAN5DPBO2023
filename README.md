@@ -3,7 +3,7 @@
 <br>
 
 ## Deskripsi Tugas
-Download this starter project: starter project
+Download this starter project: [starter project](https://drive.google.com/file/d/1TEnEay74nhGcSS9PPzQcxksIlaQhTiZ2/view?usp=sharing)
 
 * Add more property (component type: any, except text field)
 * Add method to reset form
@@ -11,8 +11,7 @@ Download this starter project: starter project
 * Add confirmation prompt before delete
 * Build project (generate .jar file)
 
-Result :
-<br>
+**Result :**
 ![Result](https://user-images.githubusercontent.com/100776170/226825159-64c3579c-ef65-4d58-ba21-53b0f1a2e14d.png)
 
 <br>
