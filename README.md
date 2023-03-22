@@ -56,3 +56,8 @@ Untuk setiap proses yang telah dilakukan oleh *user* akan langsung me-refresh fo
 <br>
 
 ## Dokumentasi
+![Screenshot - Main](https://user-images.githubusercontent.com/100776170/226844149-82d6a5f4-64fa-4e07-b5e0-df735c3fc3bf.png)
+![Screenshot - Add](https://user-images.githubusercontent.com/100776170/226845442-3cf98a57-80cc-459f-b6d4-57aca6901cd7.png)
+![Screenshot - Update](https://user-images.githubusercontent.com/100776170/226845559-6e24ba76-d140-4b50-8c0b-c765ee399211.png)
+![Screenshot - Delete_Dialog](https://user-images.githubusercontent.com/100776170/226845654-e4b23b4d-350e-45c6-a0cb-5fa6c97e60ba.png)
+![Screenshot - Delete](https://user-images.githubusercontent.com/100776170/226845671-b1baa2ec-571f-4779-8d04-67a39876c180.png)
